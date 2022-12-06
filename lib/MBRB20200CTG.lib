@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MBRB20200CTG
+#
+DEF MBRB20200CTG CR 0 40 N N 1 L N
+F0 "CR" 300 400 50 H V L BNN
+F1 "MBRB20200CTG" 300 300 50 H V L BNN
+F2 "D2PAK" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "D2PAK-3 ON Semiconductor" 0 0 50 H I L BNN "Package"
+F5 "\nDiode Array 1 Pair Common Cathode Schottky 200 V 10A Surface Mount TO-263-3, D²Pak (2 Leads + Tab), TO-263AB\n" 0 0 50 H I L BNN "Description"
+F6 "None" 0 0 50 H I L BNN "Price"
+F7 "ON Semiconductor" 0 0 50 H I L BNN "MF"
+F8 "https://pricing.snapeda.com/search/part/MBRB20200CTG/?ref=eda" 0 0 50 H I L BNN "Purchase-URL"
+F9 "MBRB20200CTG" 0 0 50 H I L BNN "MP"
+F10 "In Stock" 0 0 50 H I L BNN "Availability"
+DRAW
+P 2 0 0 10 0 0 0 200 N
+P 2 0 0 10 0 200 200 200 N
+P 2 0 0 10 200 200 0 400 N
+P 2 0 0 10 0 400 -200 200 N
+P 2 0 0 10 -200 200 0 200 N
+P 2 0 0 10 -200 500 -200 400 N
+P 2 0 0 10 -200 400 0 400 N
+P 2 0 0 10 0 400 200 400 N
+P 2 0 0 10 200 400 200 300 N
+P 2 0 0 10 0 400 0 600 N
+X ~ TAB 0 600 0 R 40 40 0 0 B 
+X ~ 1 0 0 0 R 40 40 0 0 B 
+X ~ 3 0 0 0 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

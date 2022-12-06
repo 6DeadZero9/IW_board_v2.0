@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# XT90PW-M
+#
+DEF XT90PW-M J 0 40 Y Y 1 L N
+F0 "J" 0 150 50 H V L BNN
+F1 "XT90PW-M" 0 -300 50 H V L BNN
+F2 "AMASS_XT90PW-M" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Package" 0 0 50 H I L BNN "Package"
+F5 "XT90PW-M" 0 0 50 H I L BNN "MP"
+F6 "Not in stock" 0 0 50 H I L BNN "Availability"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "AMASS" 0 0 50 H I L BNN "MF"
+F9 "\nSocket; DC supply; XT90; male; PIN: 2; on PCBs; THT; Colour: yellow\n" 0 0 50 H I L BNN "Description"
+DRAW
+P 2 0 0 10 0 50 50 100 N
+P 2 0 0 10 0 50 0 0 N
+P 2 0 0 10 0 0 0 -150 N
+P 2 0 0 10 0 -150 50 -200 N
+P 2 0 0 10 50 -200 300 -200 N
+P 2 0 0 10 300 -200 300 100 N
+P 2 0 0 10 300 100 50 100 N
+P 2 0 0 10 0 0 75 0 N
+S 24 -12 87 12 0 0 0 F
+P 2 0 0 10 0 -100 75 -100 N
+S 24 -112 87 -87 0 0 0 F
+X POS P -200 0 200 R 40 40 0 0 P 
+X NEG N -200 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
