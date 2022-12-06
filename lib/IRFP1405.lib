@@ -1,0 +1,80 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Infineon IRFP1405PBF
+#
+DEF IRFP1405PBF Q 0 40 Y Y 1 L N
+F0 "Q" 0 400 50 H V L CNN 
+F1 "IRFP1405PBF" 0 500 50 H V L CNN 
+F2 "Infineon-PG-TO247-3-0-901-*" 0 600 50 H I L CNN 
+F3 "https://www.infineon.com/dgdl/Infineon-IRFP1405-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a4015356284dd81fce" 0 700 50 H I L CNN 
+F4 "No" 0 800 50 H I L CNN "automotive"
+F5 "Trans" 0 900 50 H I L CNN "category"
+F6 "95A" 0 1000 50 H I L CNN "continuous drain current"
+F7 "False" 0 1100 50 H I L CNN "depletion mode"
+F8 "Discrete Semiconductors" 0 1200 50 H I L CNN "device class L1"
+F9 "Transistors" 0 1300 50 H I L CNN "device class L2"
+F10 "MOSFETs" 0 1400 50 H I L CNN "device class L3"
+F11 "MOSFET N-CH 55V 95A TO247AC" 0 1500 50 H I L CNN "digikey description"
+F12 "IRFP1405PBF-ND" 0 1600 50 H I L CNN "digikey part number"
+F13 "55V" 0 1700 50 H I L CNN "drain to source breakdown voltage"
+F14 "4.2mΩ" 0 1800 50 H I L CNN "drain to source resistance"
+F15 "55V" 0 1900 50 H I L CNN "drain to source voltage"
+F16 "https://www.infineon.com/cms/en/product/packages/PG-TO247/PG-TO247-3-901/" 0 2000 50 H I L CNN "footprint url"
+F17 "120nC @ 10V" 0 2100 50 H I L CNN "gate charge at vgs"
+F18 "20V" 0 2200 50 H I L CNN "gate to source voltage"
+F19 "24.99mm" 0 2300 50 H I L CNN "height"
+F20 "5600pF @ 25V" 0 2400 50 H I L CNN "input capacitace at vds"
+F21 "Yes" 0 2500 50 H I L CNN "lead free"
+F22 "51a683803be8b4f8" 0 2600 50 H I L CNN "library id"
+F23 "Infineon" 0 2700 50 H I L CNN "manufacturer"
+F24 "1.3V" 0 2800 50 H I L CNN "max forward diode voltage"
+F25 "+175°C" 0 2900 50 H I L CNN "max junction temp"
+F26 "942-IRFP1405PBF" 0 3000 50 H I L CNN "mouser part number"
+F27 "1" 0 3100 50 H I L CNN "number of N channels"
+F28 "1" 0 3200 50 H I L CNN "number of channels"
+F29 "TO247-3" 0 3300 50 H I L CNN "package"
+F30 "310W" 0 3400 50 H I L CNN "power dissipation"
+F31 "640A" 0 3500 50 H I L CNN "pulse drain current"
+F32 "170nC" 0 3600 50 H I L CNN "reverse recovery charge"
+F33 "70ns" 0 3700 50 H I L CNN "reverse recovery time"
+F34 "Yes" 0 3800 50 H I L CNN "rohs"
+F35 "40°C/W" 0 3900 50 H I L CNN "rthja max"
+F36 "3.71mm" 0 4000 50 H I L CNN "standoff height"
+F37 "+175°C" 0 4100 50 H I L CNN "temperature range high"
+F38 "-55°C" 0 4200 50 H I L CNN "temperature range low"
+F39 "4V" 0 4300 50 H I L CNN "threshold vgs max"
+F40 "2V" 0 4400 50 H I L CNN "threshold vgs min"
+F41 "140ns" 0 4500 50 H I L CNN "turn off delay time"
+F42 "12ns" 0 4600 50 H I L CNN "turn on delay time"
+DRAW
+X G 1 100 0 140 R 40 0 1 1 P 
+X S 3 400 -100 200 U 40 0 1 1 P 
+X D 2 400 300 120 D 40 0 1 1 P 
+P 2 1 1 0 240 0 240 200 N
+P 2 1 1 0 270 160 270 200 N
+P 2 1 1 0 270 20 400 20 N
+P 2 1 1 0 270 180 400 180 N
+P 2 1 1 0 300 100 400 100 N
+P 2 1 1 0 290 100 340 130 N
+P 2 1 1 0 290 100 340 70 N
+P 2 1 1 0 340 130 340 70 N
+P 2 1 1 0 330 110 330 80 N
+P 2 1 1 0 270 40 270 0 N
+P 2 1 1 0 270 120 270 80 N
+P 2 1 1 0 400 20 470 20 N
+P 2 1 1 0 470 20 470 180 N
+P 2 1 1 0 470 180 400 180 N
+C 400 180 10 1 1 0 N
+C 400 20 10 1 1 0 N
+P 2 1 1 0 470 120 450 80 N
+P 2 1 1 0 450 80 490 80 N
+P 2 1 1 0 490 80 470 120 N
+P 2 1 1 0 470 120 490 120 N
+P 2 1 1 0 490 120 500 130 N
+P 2 1 1 0 470 120 450 120 N
+P 2 1 1 0 450 120 440 110 N
+ENDDRAW
+ENDDEF
+#
+# End Library
