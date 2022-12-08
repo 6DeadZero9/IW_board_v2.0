@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "FUSE_3557-2")(type "Legacy")(uri "${KIPRJMOD}/lib/3557-2.mod")(options "")(descr ""))
+  (lib (name "MBRB20200CTG")(type "Legacy")(uri "${KIPRJMOD}/lib/MBRB20200CTG.mod")(options "")(descr ""))
+  (lib (name "W25Q16JVSSIQ")(type "Legacy")(uri "${KIPRJMOD}/lib/W25Q16JVSSIQ.mod")(options "")(descr ""))
+  (lib (name "XT90PW-M")(type "Legacy")(uri "${KIPRJMOD}/lib/XT90PW-M.mod")(options "")(descr ""))
+  (lib (name "TL3342F160QG_TR")(type "Legacy")(uri "${KIPRJMOD}/lib/TL3342F160QG_TR.mod")(options "")(descr ""))
+  (lib (name "AMASS_XT60PW-F")(type "Legacy")(uri "${KIPRJMOD}/lib/XT60PW-F.mod")(options "")(descr ""))
+  (lib (name "2EDN7524F")(type "Legacy")(uri "${KIPRJMOD}/lib/2EDN7524F.mod")(options "")(descr ""))
+  (lib (name "IRFP1405")(type "Legacy")(uri "${KIPRJMOD}/lib/IRFP1405.mod")(options "")(descr ""))
+  (lib (name "TXS0108EPWR")(type "Legacy")(uri "${KIPRJMOD}/lib/TXS0108EPWR.mod")(options "")(descr ""))
+  (lib (name "ES1J")(type "Legacy")(uri "${KIPRJMOD}/lib/ES1J.mod")(options "")(descr ""))
+)
