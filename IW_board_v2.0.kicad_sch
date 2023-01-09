@@ -574,7 +574,7 @@
     (path "/1d9d9a52-6d90-4bd5-bf76-ff1a6677f813/7aede435-2d9d-40e0-b05a-4a873f43b98b"
       (reference "F8") (unit 1) (value "MAIN FUSE 30A") (footprint "FUSE_3557-2:FUSE_3557-2")
     )
-    (path "/b7b52878-fe66-484d-b159-40551c46f7bc/57592b7e-c0fe-4da2-897c-6770bdafefff"
+    (path "/b7b52878-fe66-484d-b159-40551c46f7bc/617d77ee-89ad-468f-a3f9-f0b79fff4d62"
       (reference "J1") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/1d9d9a52-6d90-4bd5-bf76-ff1a6677f813/612691c7-7e95-423b-84d7-705ca602a819"
@@ -587,67 +587,67 @@
       (reference "J4") (unit 1) (value "EMU_BLACK_B") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical")
     )
     (path "/1d9d9a52-6d90-4bd5-bf76-ff1a6677f813/37bd2b54-bf50-4129-9299-072ef13341b4"
-      (reference "J5") (unit 1) (value "SAFETY") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J5") (unit 1) (value "SAFETY") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/00039b39-b7ad-4ef2-b834-30abf6f2ffaf"
-      (reference "J6") (unit 1) (value "INJ CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J6") (unit 1) (value "INJ CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/943dfa8b-12c4-455c-b672-de2c61bc4c75"
-      (reference "J7") (unit 1) (value "STARTER INF") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J7") (unit 1) (value "STARTER INF") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/a708e444-a1e8-4659-8430-7771f1084781"
-      (reference "J8") (unit 1) (value "SERVO") (footprint "Connector_Molex:Molex_PicoBlade_53047-0310_1x03_P1.25mm_Vertical")
+      (reference "J8") (unit 1) (value "SERVO") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/bc1e9928-cd35-4960-a40b-3bbb1d8c4963"
-      (reference "J9") (unit 1) (value "LEFT WHEEL SENS") (footprint "Connector_Molex:Molex_PicoBlade_53047-0310_1x03_P1.25mm_Vertical")
+      (reference "J9") (unit 1) (value "LEFT WHEEL SENS") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/a8870a76-19ba-48a4-b155-b5a87a8d369c"
-      (reference "J10") (unit 1) (value "RIGHT WHEEL SENS") (footprint "Connector_Molex:Molex_PicoBlade_53047-0310_1x03_P1.25mm_Vertical")
+      (reference "J10") (unit 1) (value "RIGHT WHEEL SENS") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/5054c22e-3fbd-4c26-9950-f7f1bd6c606d"
       (reference "J11") (unit 1) (value "STARTER CON") (footprint "AMASS_XT60PW-F:AMASS_XT60PW-F")
     )
-    (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/d12e7536-1dea-4871-9f8d-7e2955146a87"
+    (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/af5e88cb-8312-497a-835d-c31e37a25c69"
       (reference "J12") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
-    (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/a1df70f9-172c-4af1-b647-66c4618b9514"
+    (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/abdeea7d-424d-4ea2-9ecf-e9119c318a73"
       (reference "J13") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/3b85f217-c0ae-4772-93d2-920e165a6e6a"
-      (reference "J14") (unit 1) (value "CAN") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J14") (unit 1) (value "CAN") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/a9130ee5-b4b1-43ab-ba62-fed17a9d8611"
-      (reference "J15") (unit 1) (value "3.3V OUT") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J15") (unit 1) (value "3.3V OUT") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/89cc2289-4d2c-4226-9ce2-c0b19b8eca2a"
-      (reference "J16") (unit 1) (value "5V OUT") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J16") (unit 1) (value "5V OUT") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/86cfce6b-3139-4322-8367-d2db5aff382e"
-      (reference "J17") (unit 1) (value "7.5V OUT") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J17") (unit 1) (value "7.5V OUT") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/180ca646-ec09-4d84-94f4-e245f522ef5e"
-      (reference "J18") (unit 1) (value "OIL CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J18") (unit 1) (value "OIL CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/1528706d-765e-4baa-987c-5eff7d8e2f6a"
-      (reference "J19") (unit 1) (value "IAT CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J19") (unit 1) (value "IAT CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/a15413af-0386-48f3-8cef-9349f46bcfc6"
-      (reference "J20") (unit 1) (value "PRIM TRIGG CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J20") (unit 1) (value "PRIM TRIGG CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/20aadb91-c235-4a27-a3be-dc27fb48311b"
-      (reference "J21") (unit 1) (value "SEC TRIGG CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J21") (unit 1) (value "SEC TRIGG CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/457494bd-9952-4040-a9c8-c4e0e18e15a5"
-      (reference "J22") (unit 1) (value "EGT CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J22") (unit 1) (value "EGT CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/e4b6f9b7-e0ef-4fa0-ab33-f34a945527b5"
-      (reference "J23") (unit 1) (value "DATA LOGGER CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0310_1x03_P1.25mm_Vertical")
+      (reference "J23") (unit 1) (value "DATA LOGGER CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/26708bb7-4c70-4118-842d-a93cc6be2a6d"
-      (reference "J24") (unit 1) (value "IGN CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0310_1x03_P1.25mm_Vertical")
+      (reference "J24") (unit 1) (value "IGN CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/8c6cf79a-c02e-497f-ab29-40ae2a109e36"
-      (reference "J25") (unit 1) (value "INJ CON") (footprint "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical")
+      (reference "J25") (unit 1) (value "INJ CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/2480914f-7e50-4376-8b6f-dd3fec58813f"
       (reference "K1") (unit 1) (value "FINDER-34.51 INJ") (footprint "Relay_THT:Relay_SPDT_Finder_34.51_Vertical")
