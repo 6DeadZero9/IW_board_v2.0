@@ -2355,7 +2355,7 @@
     (property "Reference" "F9" (id 0) (at 115.57 41.91 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "7.5V 5A" (id 1) (at 115.57 33.02 0)
+    (property "Value" "16V 5A" (id 1) (at 115.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "FUSE_3557-2:FUSE_3557-2" (id 2) (at 118.11 36.83 0)

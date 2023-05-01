@@ -484,6 +484,10 @@
     [
       "f17d7605-1e7d-42eb-aa0e-da1f84e26a35",
       "IO"
+    ],
+    [
+      "3d3401f4-9fc2-4eb9-901a-9453ad25fb69",
+      "MCP2515"
     ]
   ],
   "text_variables": {}
