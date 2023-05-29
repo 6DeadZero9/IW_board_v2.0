@@ -613,6 +613,9 @@
     (path "/b7b52878-fe66-484d-b159-40551c46f7bc/3d3401f4-9fc2-4eb9-901a-9453ad25fb69/3946a042-8062-440c-bab0-1d9a86cf3620"
       (reference "C28") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/1d9d9a52-6d90-4bd5-bf76-ff1a6677f813/a33cdc3a-fd86-4a2e-ac11-ca0662039428"
+      (reference "C29") (unit 1) (value "1000uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
+    )
     (path "/1d9d9a52-6d90-4bd5-bf76-ff1a6677f813/36165b4c-a43a-4135-a080-c5a00cec3bb1"
       (reference "D1") (unit 1) (value "B120-E3") (footprint "Diode_SMD:D_SMA")
     )
@@ -757,6 +760,9 @@
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/01de0786-a926-4b7e-b92a-7c05da65a01b"
       (reference "J28") (unit 1) (value "TPS CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal")
     )
+    (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/1f453d01-f399-4815-8d54-e66dcd894875"
+      (reference "J29") (unit 1) (value "WBO CON") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-5-2.54_1x05_P2.54mm_Horizontal")
+    )
     (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/2480914f-7e50-4376-8b6f-dd3fec58813f"
       (reference "K1") (unit 1) (value "FINDER-34.51 INJ") (footprint "Relay_THT:Relay_SPDT_Finder_34.51_Vertical")
     )
@@ -846,6 +852,9 @@
     )
     (path "/b7b52878-fe66-484d-b159-40551c46f7bc/3d3401f4-9fc2-4eb9-901a-9453ad25fb69/ab7264fb-d072-4028-a8bb-787c4777360e"
       (reference "R20") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/f17d7605-1e7d-42eb-aa0e-da1f84e26a35/43ea6c83-8885-4001-ad56-048100a028df"
+      (reference "S1") (unit 1) (value "JS102011SCQN") (footprint "lib:SW_JS102011SCQN")
     )
     (path "/b7b52878-fe66-484d-b159-40551c46f7bc/e4bf569e-61a1-4f73-bdfd-6440192b0692"
       (reference "SW1") (unit 1) (value "TL3342F160QG/TR") (footprint "TL3342F160QG_TR:SW_TL3342F160QG%2fTR")

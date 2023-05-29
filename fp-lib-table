@@ -9,4 +9,5 @@
   (lib (name "IRFP1405")(type "Legacy")(uri "${KIPRJMOD}/lib/IRFP1405.mod")(options "")(descr ""))
   (lib (name "TXS0108EPWR")(type "Legacy")(uri "${KIPRJMOD}/lib/TXS0108EPWR.mod")(options "")(descr ""))
   (lib (name "ES1J")(type "Legacy")(uri "${KIPRJMOD}/lib/ES1J.mod")(options "")(descr ""))
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
 )

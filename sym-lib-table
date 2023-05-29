@@ -9,4 +9,5 @@
   (lib (name "2EDN7524F")(type "KiCad")(uri "${KIPRJMOD}/lib/2EDN7524F.kicad_sym")(options "")(descr ""))
   (lib (name "XT60PW-F")(type "Legacy")(uri "${KIPRJMOD}/lib/XT60PW-F.lib")(options "")(descr ""))
   (lib (name "ES1J")(type "KiCad")(uri "${KIPRJMOD}/lib/ES1J.kicad_sym")(options "")(descr ""))
+  (lib (name "JS102011SCQN")(type "KiCad")(uri "${KIPRJMOD}/lib/JS102011SCQN.kicad_sym")(options "")(descr ""))
 )
