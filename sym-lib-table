@@ -10,4 +10,5 @@
   (lib (name "XT60PW-F")(type "Legacy")(uri "${KIPRJMOD}/lib/XT60PW-F.lib")(options "")(descr ""))
   (lib (name "ES1J")(type "KiCad")(uri "${KIPRJMOD}/lib/ES1J.kicad_sym")(options "")(descr ""))
   (lib (name "JS102011SCQN")(type "KiCad")(uri "${KIPRJMOD}/lib/JS102011SCQN.kicad_sym")(options "")(descr ""))
+  (lib (name "micro_sd")(type "KiCad")(uri "${KIPRJMOD}/lib/112J-TDAR-R01.kicad_sym")(options "")(descr ""))
 )
