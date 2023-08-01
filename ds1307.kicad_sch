@@ -6,7 +6,7 @@
 
   (title_block
     (title "Iron Warriors v2.0 ")
-    (date "2023-07-16")
+    (date "2023-08-01")
     (rev "1.1")
   )
 
@@ -492,6 +492,16 @@
   (wire (pts (xy 130.81 88.9) (xy 130.81 91.44))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ffbae1cf-ff30-47db-86f8-62a99e6c5791)
+  )
+
+  (text "Realtime clock used to track the real time onboard"
+    (at 18.415 26.67 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 0d1960ce-110f-40cf-b7fd-ada7c11d1da2)
+  )
+  (text "RTC section" (at 17.78 21.59 0)
+    (effects (font (size 2.5 2.5) (thickness 0.254) bold) (justify left bottom))
+    (uuid bb5bcefd-9935-4832-9c6f-dbc9dcc2ff32)
   )
 
   (global_label "ds1307_sda" (shape input) (at 113.665 86.36 180) (fields_autoplaced)

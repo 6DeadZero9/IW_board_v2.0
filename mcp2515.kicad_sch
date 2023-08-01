@@ -6,7 +6,7 @@
 
   (title_block
     (title "Iron Warriors v2.0 ")
-    (date "2023-07-16")
+    (date "2023-08-01")
     (rev "1.1")
   )
 
@@ -629,6 +629,15 @@
     (uuid fe4f1461-e715-46ea-8cba-47de8ed780e6)
   )
 
+  (text "CAN controller\n" (at 222.885 77.47 0)
+    (effects (font (size 2.5 2.5) (thickness 0.254) bold) (justify left bottom))
+    (uuid 3ff24fee-a8c1-400f-af66-26953bd4b1b2)
+  )
+  (text "This combination of chips allow\nto R/W messages on the CAN Bus \nwith the use of RP2040"
+    (at 223.52 82.55 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 5d4844a4-a481-4a61-ab1f-b70b16945b96)
+  )
   (text "connect pin to GND\nto allow usage of SN65HVD230" (at 241.3 27.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ff51610b-d65d-4d74-a0c0-b73b1cfffeec)

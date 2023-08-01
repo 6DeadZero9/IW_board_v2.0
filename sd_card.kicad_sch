@@ -6,7 +6,7 @@
 
   (title_block
     (title "Iron Warriors v2.0 ")
-    (date "2023-07-16")
+    (date "2023-08-01")
     (rev "1.1")
   )
 
@@ -418,6 +418,15 @@
   (wire (pts (xy 138.43 87.63) (xy 138.43 106.68))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f41f2f8d-c830-4988-a720-9819934cf241)
+  )
+
+  (text "SD card setion\n" (at 19.685 20.32 0)
+    (effects (font (size 2.5 2.5) (thickness 0.254) bold) (justify left bottom))
+    (uuid 0d5419aa-cd6d-4969-abc6-0cc71afd1dc4)
+  )
+  (text "Connectiion schematics taken from the internet" (at 20.32 25.4 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 0de3bf74-1a22-48e6-a7aa-f3916edddd71)
   )
 
   (global_label "sd_card_cs" (shape input) (at 132.08 91.44 180) (fields_autoplaced)
